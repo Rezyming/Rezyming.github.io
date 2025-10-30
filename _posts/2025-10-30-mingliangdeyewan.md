@@ -1,9 +1,10 @@
 ---
-title: 明亮的夜晚 -- [韩] 崔恩荣
-author: 1ming
-date: 2025-02-15 00:09:00 +0800
-categories: [读书笔记]
-tags: [2025]
+title: Writing a New Post
+author: cotes
+date: 2019-08-08 14:10:00 +0800
+categories: [Blogging, Tutorial]
+tags: [writing]
+render_with_liquid: false
 ---
 
 ## 摘抄
