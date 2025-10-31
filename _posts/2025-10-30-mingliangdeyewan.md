@@ -2,8 +2,8 @@
 title: 明亮的夜晚 -- [韩] 崔恩荣
 author: 1ming
 date: 2025-10-30 14:10:00 +0800
-categories: [readingnotes, test]
-tags: [book]
+categories: ["读书笔记", "2025"]
+tags: ["读书笔记"]
 render_with_liquid: false
 ---
 
